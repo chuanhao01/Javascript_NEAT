@@ -14,6 +14,11 @@ The actual research paper I followed: [Link](http://nn.cs.utexas.edu/downloads/p
 The website of the guy that made NEAT: [Link](http://www.cs.ucf.edu/~kstanley/)  
 Code Bullet's code that I looked at for even more confusion: [Link](https://github.com/Code-Bullet/NEAT-Template-JavaScript)  
 
+## Projects I made using this library  
+1. [NEAT Playing Flappy Bird](https://github.com/chuanhao01/Flappy_Bird_NEAT_JS)
+2. [NEAT Playing Pac-Man](https://github.com/chuanhao01/Pacman_NEAT_JS)
+    1. This was a project I worked with [@David-The-Programmer](https://github.com/David-The-Programmer) as well.
+
 ## Quick Start guide  
 Sadly, due to time I probably will not be writing a documentation for this library code, but here is a quick guide on how to use the library.  
 
